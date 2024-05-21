@@ -1,3 +1,6 @@
+# Directories and Files
+data/Call_Data_20240521.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
